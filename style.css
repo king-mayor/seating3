@@ -331,6 +331,10 @@ body, html {
     .nav2 {
         display: none;
     }
+    .navbar img {
+        width: 90px;
+        height: 30px;
+    }
     .tables-header h1 {
         text-align: center;
         margin-left: 0px;
